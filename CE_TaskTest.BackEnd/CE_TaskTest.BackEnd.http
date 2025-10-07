@@ -1,0 +1,6 @@
+@CE_TaskTest.BackEnd_HostAddress = http://localhost:5186
+
+GET {{CE_TaskTest.BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
